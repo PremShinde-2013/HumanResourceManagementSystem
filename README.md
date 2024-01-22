@@ -1,2 +1,2 @@
 # Humaan Resource Management System
-## ui with HTML CSS JS and framework css bootstrap
+## UI with HTML CSS JS and framework css bootstrap
